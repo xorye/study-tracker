@@ -1,0 +1,28 @@
+{
+  "name": "study-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xorye/study-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xorye/study-tracker/issues"
+  },
+  "homepage": "https://github.com/xorye/study-tracker#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "jsonwebtoken": "^8.0.0",
+    "lodash": "^4.17.4",
+    "mongoose": "^4.11.10",
+    "validator": "^8.1.0"
+  }
+}
